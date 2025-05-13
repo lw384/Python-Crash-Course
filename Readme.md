@@ -1,4 +1,7 @@
 # PYTHON CRASH COURSE
+
+
+
 ## 1. Basic knowledge
 
 ### string
@@ -232,3 +235,10 @@ else:
 test开头的文件会作为测试文件运行
 
 assert 写断言
+
+## 2.Projects
+
+
+
+## 3. 其他
+
