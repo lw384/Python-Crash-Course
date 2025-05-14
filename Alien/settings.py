@@ -19,3 +19,5 @@ class Settings:
         self.fleet_direction = 1
 
         self.ship_limit = 3
+
+        self.alien_points = 50
